@@ -1,0 +1,29 @@
+ros-melodic-robot-indicator (0.1.3-1stretch) stretch; urgency=high
+
+  * Install scripts/robot_indicator_launch
+  * fixed error logging
+
+ -- turtlebot <code@hxr.io>  Sat, 09 Nov 2019 05:00:00 -0000
+
+ros-melodic-robot-indicator (0.1.2-1stretch) stretch; urgency=high
+
+  * Added "Launch..." submenu connected to robot_indicator_launch dialog
+  * Now waiting 1 second after running systemctl before updating menus
+  * Changed external systemctl polling interval to 15 seconds
+
+ -- turtlebot <code@hxr.io>  Sat, 09 Nov 2019 05:00:00 -0000
+
+ros-melodic-robot-indicator (0.1.1-1stretch) stretch; urgency=high
+
+  * Improved documentation
+  * Added desktop autostart
+
+ -- turtlebot <code@hxr.io>  Fri, 08 Nov 2019 05:00:00 -0000
+
+ros-melodic-robot-indicator (0.1.0-1stretch) stretch; urgency=high
+
+  * Initial Release
+
+ -- turtlebot <code@hxr.io>  Fri, 08 Nov 2019 05:00:00 -0000
+
+
